@@ -1,0 +1,29 @@
+{
+    "name": "mm_copy_file",
+    "version": "1.0.0",
+    "description": "这是超级美眉用于复制文件或目录的模块",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js",
+        "dev": "nodemon test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/qiuwenwu/mm_copy_file.git"
+    },
+    "keywords": [
+        "copy_file",
+        "file",
+        "dir"
+    ],
+    "author": "邱文武",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/qiuwenwu/mm_copy_file/issues"
+    },
+    "homepage": "https://github.com/qiuwenwu/mm_copy_file#readme",
+    "dependencies": {
+        "mm_expand": "^1.5.1"
+    },
+    "devDependencies": {}
+}
